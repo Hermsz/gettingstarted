@@ -1,0 +1,79 @@
+body {
+    font-family: 'Staatliches', cursive;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/*#################### HEADER ####################*/
+
+.header-text{
+    background: url('../img/header.jpg');
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+    color: white;
+    padding-bottom: 50px;
+    color: whitesmoke;
+    font-size: 40px;
+
+}
+
+/*#################### OTA PARTNER ####################*/
+
+
+.btn-booknow{
+    border: none;
+    padding: 14px 35px;
+    border: 2px solid #89817b;
+    border-radius: 5px;
+    background-color: #89817b;
+    font-size: 18px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.bookingbtn{
+    width: 200x;
+    height: 100px;
+    margin: 20px;
+    padding: 20px;
+}
+
+
+/*#################### ROOMS AND FACILITIES ####################*/
+
+#rooms-and-facilities{
+    width: 100%;
+    height: auto;
+    background-color: rgb(236, 236, 236);
+    padding: 20px;
+    display: inline-grid;
+}
+
+.roomsize {
+    width: 500px;
+    height: 300px;
+}
+
+.superior {
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+.suite{
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+
+
+/*#################### CONTACT US ####################*/
+
+.contact-us{
+    padding: 50px;
+}
+
+
